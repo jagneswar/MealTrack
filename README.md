@@ -3,6 +3,9 @@
 > **A full-stack MERN campus mess management ecosystem built for IIIT Bhubaneswar.**  
 > Students, Mess Committees, Admins, and Kitchen Staff — all connected through one real-time, role-based platform backed by MongoDB.
 
+[![Live App](https://img.shields.io/badge/Live_App-MealTrack-16a34a?style=for-the-badge)](https://mealtrack-rxm2.onrender.com)
+[![GitHub Repository](https://img.shields.io/badge/GitHub-jagneswar%2FMealTrack-181717?style=for-the-badge&logo=github)](https://github.com/jagneswar/MealTrack)
+
 [![Node.js](https://img.shields.io/badge/Node.js-20+-339933?style=flat-square&logo=node.js)](https://nodejs.org/)
 [![React](https://img.shields.io/badge/React-18.3-61DAFB?style=flat-square&logo=react)](https://react.dev/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb)](https://www.mongodb.com/)
